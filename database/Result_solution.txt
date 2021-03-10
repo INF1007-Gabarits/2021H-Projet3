@@ -1,6 +1,6 @@
-Le mot le plus long est "sollicitudin" avec 12 caractères.
-Le mot le plus court est "pede" avec 4 caractères.
-La longueur moyenne des mots lus est de 5.51 caractères.
+Le mot le plus long est "sollicitudin" avec 12 caractÃ¨res.
+Le mot le plus court est "pede" avec 4 caractÃ¨res.
+La longueur moyenne des mots lus est de 5.51 caractÃ¨res.
 lorem: 1
 ipsum: 6
 dolor: 3
