@@ -26,3 +26,4 @@ Cette fonction dois ecrire les information sur le texte lu par la fonction "read
 ### 4. Tests unitaires 
 Afin de vous assurer que votre programme fonctionne bien, vous devez implémenter un test unitaire pour chacune des trois fonctions implémentées, dans le fichier [test_exercice.py](test_exercice.py).
 
+
