@@ -1,7 +1,7 @@
 # Projet 3 - Traitement de text
 
 <!--- Changer la date de remise en modifiant le URL--->
-#### :alarm_clock: [Date de remise le dimanche 29 mars à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210329T2359&p0=165&font=cursive)
+#### :alarm_clock: [Date de remise le dimanche 28 mars à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210329T2359&p0=165&font=cursive)
 
 ## Objectif
 Dans ce projet, vous devez compléter trois aspects de programmation: 
